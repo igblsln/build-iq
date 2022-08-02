@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1001,
+      "cost_description": "Cement",
+      "category_description": "Cement"
+    },
+    {
+      "id": 1002,
+      "cost_description": "Sand",
+      "category_description": "Sand"
+    },
+    {
+      "id": 1003,
+      "cost_description": "Aggregate",
+      "category_description": "Aggregate"
+    },
+    {
+      "id": 1004,
+      "cost_description": "Steel",
+      "category_description": "Steel"
+    },
+    {
+      "id": 1005,
+      "cost_description": "Fittings",
+      "category_description": "Fittings"
+    },
+    {
+      "id": 1006,
+      "cost_description": "Labours",
+      "category_description": "Labours"
+    },
+    {
+      "id": 1007,
+      "cost_description": "Others",
+      "category_description": "Others"
+    }
+  ]
