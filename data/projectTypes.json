@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1001,
+      "projectType": "1 Tower",
+      "description": "1 Tower"
+    },
+    {
+      "id": 1002,
+      "projectType": "Independent Villas",
+      "description": "Independent Villas"
+    },
+    {
+      "id": 1003,
+      "projectType": "Stilt+3",
+      "description": "Stilt+3"
+    },
+    {
+      "id": 1004,
+      "projectType": "G+3",
+      "description": "G+3"
+    },
+    {
+      "id": 1005,
+      "projectType": "G+4",
+      "description": "G+4"
+    }
+]
