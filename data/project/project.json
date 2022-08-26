@@ -1,0 +1,105 @@
+{
+  "count": 8,
+  "results": [
+    {
+      "id": 1,
+      "name": "Homeland estates",
+      "state": "TN",
+      "city": "Chennai",
+      "type": "1 Tower",
+      "totalUnits": 24,
+      "price": 6500,
+      "priceUnit": "Sq.feet",
+      "status": "Under Construction",
+      "possession": "2005-11-05T00:00:00Z",
+      "image": "villa.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Villa",
+      "state": "TN",
+      "city": "Chennai",
+      "type": "Independent house",
+      "totalUnits": 9,
+      "price": 7900,
+      "priceUnit": "Sq.feet",
+      "status": "Readt to Move",
+      "possession": "2005-11-05T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Homeland estates",
+      "state": "TN",
+      "city": "Chennai",
+      "type": "1 Tower",
+      "totalUnits": 24,
+      "price": 6500,
+      "priceUnit": "Sq.feet",
+      "status": "Under Construction",
+      "possession": "2005-11-05T00:00:00Z",
+      "image": "villa.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Villa",
+      "state": "TN",
+      "city": "Chennai",
+      "type": "Independent house",
+      "totalUnits": 9,
+      "price": 7900,
+      "priceUnit": "Sq.feet",
+      "status": "Readt to Move",
+      "possession": "2005-11-05T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Homeland estates",
+      "state": "TN",
+      "city": "Chennai",
+      "type": "1 Tower",
+      "totalUnits": 24,
+      "price": 6500,
+      "priceUnit": "Sq.feet",
+      "status": "Under Construction",
+      "possession": "2005-11-05T00:00:00Z",
+      "image": "villa.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Villa",
+      "state": "TN",
+      "city": "Chennai",
+      "type": "Independent house",
+      "totalUnits": 9,
+      "price": 7900,
+      "priceUnit": "Sq.feet",
+      "status": "Readt to Move",
+      "possession": "2005-11-05T00:00:00Z"
+    },
+    {
+      "id": 7,
+      "name": "Homeland estates",
+      "state": "TN",
+      "city": "Chennai",
+      "type": "1 Tower",
+      "totalUnits": 24,
+      "price": 6500,
+      "priceUnit": "Sq.feet",
+      "status": "Under Construction",
+      "possession": "2005-11-05T00:00:00Z",
+      "image": "villa.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Villa",
+      "state": "TN",
+      "city": "Chennai",
+      "type": "Independent house",
+      "totalUnits": 9,
+      "price": 7900,
+      "priceUnit": "Sq.feet",
+      "status": "Readt to Move",
+      "possession": "2005-11-05T00:00:00Z"
+    }
+  ]
+}
