@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "./static/css/main.3bff38e0.css",
-    "main.js": "./static/js/main.cc7f2b14.js",
+    "main.js": "./static/js/main.4d5c8c12.js",
     "static/css/474.b2bb85a6.chunk.css": "./static/css/474.b2bb85a6.chunk.css",
-    "static/js/474.d96b442b.chunk.js": "./static/js/474.d96b442b.chunk.js",
+    "static/js/474.de8adf0a.chunk.js": "./static/js/474.de8adf0a.chunk.js",
     "static/css/473.b2bb85a6.chunk.css": "./static/css/473.b2bb85a6.chunk.css",
     "static/js/473.5a820286.chunk.js": "./static/js/473.5a820286.chunk.js",
     "static/css/115.b2bb85a6.chunk.css": "./static/css/115.b2bb85a6.chunk.css",
@@ -33,9 +33,9 @@
     "static/media/roboto-greek-ext-400-normal.woff2": "./static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
     "index.html": "./index.html",
     "main.3bff38e0.css.map": "./static/css/main.3bff38e0.css.map",
-    "main.cc7f2b14.js.map": "./static/js/main.cc7f2b14.js.map",
+    "main.4d5c8c12.js.map": "./static/js/main.4d5c8c12.js.map",
     "474.b2bb85a6.chunk.css.map": "./static/css/474.b2bb85a6.chunk.css.map",
-    "474.d96b442b.chunk.js.map": "./static/js/474.d96b442b.chunk.js.map",
+    "474.de8adf0a.chunk.js.map": "./static/js/474.de8adf0a.chunk.js.map",
     "473.b2bb85a6.chunk.css.map": "./static/css/473.b2bb85a6.chunk.css.map",
     "473.5a820286.chunk.js.map": "./static/js/473.5a820286.chunk.js.map",
     "115.b2bb85a6.chunk.css.map": "./static/css/115.b2bb85a6.chunk.css.map",
@@ -53,6 +53,6 @@
   },
   "entrypoints": [
     "static/css/main.3bff38e0.css",
-    "static/js/main.cc7f2b14.js"
+    "static/js/main.4d5c8c12.js"
   ]
 }
